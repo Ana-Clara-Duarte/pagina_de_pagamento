@@ -1,6 +1,7 @@
 # Página de Pagamento SheeepHub
 
 ![Screenshot do site](img-p/print01.png)
+![Screenshot do site](img-p/print02.png)
 
 ---
 
