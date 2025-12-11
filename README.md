@@ -1,9 +1,12 @@
-# Alura Plus
+# Página de Pagamento SheeepHub
 
-## Landing page inspirada na Alura Plus  
+---
 
-![Screenshot do site](img-p/print.png)
+![Screenshot do site](img-p/print01.png)
 
+---
+
+![Screenshot do site](img-p/print02.png)
 
 ![desenvolvido](https://img.shields.io/badge/Status-Em%20desenvolvimento-green)
 
